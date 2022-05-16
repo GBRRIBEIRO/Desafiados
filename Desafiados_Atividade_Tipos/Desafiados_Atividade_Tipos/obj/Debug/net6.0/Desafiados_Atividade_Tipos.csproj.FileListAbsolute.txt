@@ -1,0 +1,15 @@
+C:\Users\gabriel.ribeiro\Documents\Programação\Projetinhos\Desafiados_Atividade_Tipos\Desafiados_Atividade_Tipos\obj\Debug\net6.0\Desafiados_Atividade_Tipos.csproj.AssemblyReference.cache
+C:\Users\gabriel.ribeiro\Documents\Programação\Projetinhos\Desafiados_Atividade_Tipos\Desafiados_Atividade_Tipos\obj\Debug\net6.0\Desafiados_Atividade_Tipos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabriel.ribeiro\Documents\Programação\Projetinhos\Desafiados_Atividade_Tipos\Desafiados_Atividade_Tipos\obj\Debug\net6.0\Desafiados_Atividade_Tipos.AssemblyInfoInputs.cache
+C:\Users\gabriel.ribeiro\Documents\Programação\Projetinhos\Desafiados_Atividade_Tipos\Desafiados_Atividade_Tipos\obj\Debug\net6.0\Desafiados_Atividade_Tipos.AssemblyInfo.cs
+C:\Users\gabriel.ribeiro\Documents\Programação\Projetinhos\Desafiados_Atividade_Tipos\Desafiados_Atividade_Tipos\obj\Debug\net6.0\Desafiados_Atividade_Tipos.csproj.CoreCompileInputs.cache
+C:\Users\gabriel.ribeiro\Documents\Programação\Projetinhos\Desafiados_Atividade_Tipos\Desafiados_Atividade_Tipos\bin\Debug\net6.0\Desafiados_Atividade_Tipos.exe
+C:\Users\gabriel.ribeiro\Documents\Programação\Projetinhos\Desafiados_Atividade_Tipos\Desafiados_Atividade_Tipos\bin\Debug\net6.0\Desafiados_Atividade_Tipos.deps.json
+C:\Users\gabriel.ribeiro\Documents\Programação\Projetinhos\Desafiados_Atividade_Tipos\Desafiados_Atividade_Tipos\bin\Debug\net6.0\Desafiados_Atividade_Tipos.runtimeconfig.json
+C:\Users\gabriel.ribeiro\Documents\Programação\Projetinhos\Desafiados_Atividade_Tipos\Desafiados_Atividade_Tipos\bin\Debug\net6.0\Desafiados_Atividade_Tipos.dll
+C:\Users\gabriel.ribeiro\Documents\Programação\Projetinhos\Desafiados_Atividade_Tipos\Desafiados_Atividade_Tipos\bin\Debug\net6.0\Desafiados_Atividade_Tipos.pdb
+C:\Users\gabriel.ribeiro\Documents\Programação\Projetinhos\Desafiados_Atividade_Tipos\Desafiados_Atividade_Tipos\obj\Debug\net6.0\Desafiados_Atividade_Tipos.dll
+C:\Users\gabriel.ribeiro\Documents\Programação\Projetinhos\Desafiados_Atividade_Tipos\Desafiados_Atividade_Tipos\obj\Debug\net6.0\refint\Desafiados_Atividade_Tipos.dll
+C:\Users\gabriel.ribeiro\Documents\Programação\Projetinhos\Desafiados_Atividade_Tipos\Desafiados_Atividade_Tipos\obj\Debug\net6.0\Desafiados_Atividade_Tipos.pdb
+C:\Users\gabriel.ribeiro\Documents\Programação\Projetinhos\Desafiados_Atividade_Tipos\Desafiados_Atividade_Tipos\obj\Debug\net6.0\Desafiados_Atividade_Tipos.genruntimeconfig.cache
+C:\Users\gabriel.ribeiro\Documents\Programação\Projetinhos\Desafiados_Atividade_Tipos\Desafiados_Atividade_Tipos\obj\Debug\net6.0\ref\Desafiados_Atividade_Tipos.dll
